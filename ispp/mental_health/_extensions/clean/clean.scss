@@ -10,6 +10,8 @@ $right-arrow: "\2192"; // Unicode character for right arrow
 
 // fonts
 
+
+
 /*
 Note: This theme uses the Roboto font family, which it imports from Google
   Fonts to ensure consistent weighting in addition to availability. While
@@ -349,3 +351,33 @@ $selection-bg: #26351c !default;
 .reveal .columns6040 div.column:not(:first-child) {
   width: 40%;
 }      
+
+#title-slide {
+
+  .author,
+  .quarto-title-author-name {
+    color: $body-color;
+    font-size: 0.9em; // o 0.85em si quieres aún más pequeño
+  }
+
+  .quarto-title-author-email,
+  .quarto-title-affiliation,
+  .institute {
+    font-size: 0.8em;
+  }
+}
+
+
+.slide-logo {
+  position: fixed !important;
+  top: 12px !important;
+  right: 46px !important; // Aumenta este valor para moverlo a la izquierda
+  bottom: unset !important;
+  left: unset !important;
+  max-width: 120px;
+  max-height: 60px;
+  z-index: 1000;
+}
+
+
+
