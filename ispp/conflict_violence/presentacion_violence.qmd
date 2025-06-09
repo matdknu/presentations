@@ -34,6 +34,53 @@ logo: "images/logo.jpeg"
 
 ## Introduction
 
+#### **1. Persistence and Transformation of Ethnic Conflicts in the 21st Century**
+
+-   Despite democratic progress, conflicts between states and ethnic minorities continue across different regions.
+
+-   Violence has evolved: from colonial-style repression to modern expressions shaped by institutional frameworks and political dynamics.
+
+#### **2. The Ambivalent Role of the State**
+
+-   Coexistence of repressive policies and absence of active cultural protection measures.
+
+-   The state functions both as an agent of integration and a source of ongoing marginalization.
+
+#### **3. Intergroup Violence: A Social Psychology Perspective**
+
+-   Defined as violence directed at members of an outgroup.
+
+-   Literature highlights that the form of violence depends on specific intergroup dynamics and contexts.
+
+-   Violence may be used by majorities to maintain control or by minorities to resist oppression and advocate for change.
+
+## Introduction: Chilean context
+
+Since the mid-2010s, the interethnic conflict in southern Chile has gained greater visibility and complexity. This period has been marked by a series of developments, including the intensification of land-related actions by Indigenous organizations, the increased use of militarized strategies by the state, emblematic cases of police violence against Indigenous individuals, and unsuccessful institutional attempts to recognize Indigenous peoples in the Constitution. Together, these events have contributed to an atmosphere of mutual distrust, polarization, and selective legitimization of violence.
+
+![](images/images.jpg){fig-align="center"}
+
+## Introduction: Demands in the Context of the 2019 Uprising and the Constitutional Process
+
+**2019 Social Uprising**: Sparked widespread demands for dignity, justice, and structural change in Chilean society.
+
+**Increased Solidarity with Indigenous Causes**: During the uprising, Indigenous demands—especially those of the Mapuche—gained broader legitimacy and were seen as part of a shared struggle against historical and systemic injustice.
+
+**Constitutional Recognition**: The Constitutional Convention proposed a plurinational state, collective Indigenous rights, and reserved seats for Indigenous representatives.
+
+**Plebiscite Rejection (2022)**: The majority vote against the proposed Constitution marked a turning point. While some interpreted it as rejection of the overall process, it also signaled limited public support for structural recognition of Indigenous autonomy.
+
+**Symbolic Rise, Political Limits**: Despite unprecedented visibility and symbolic inclusion, Indigenous claims faced clear boundaries in terms of political acceptance and societal consensus.
+
+## Introduction: Research aims
+
+-   **Understand public attitudes** toward intergroup violence in the context of Indigenous–state conflict in Chile.\
+-   **Identify the conditions** under which people justify violence — whether committed by police forces or Indigenous actors.\
+-   **Explore the role** of perceived procedural justice, group identification, and solidarity with Indigenous causes.\
+-   **Use latent class analysis** to uncover distinct attitudinal profiles within the population.
+
+![](images/estallido-social.jpg){fig-align="center" width="524"}
+
 ## Literatura review
 
 ## Methods
