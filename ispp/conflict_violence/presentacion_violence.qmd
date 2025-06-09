@@ -10,14 +10,23 @@ author:
     orcid: 0000-11
     email: m.deneken@uc.cl
     affiliations: 
-      - OLES
-      - Pontificia UC Chile
+      - Observatorio de Violencia y Legitimidad Social (OLES)
   - name: Roberto Cantillán
     email: ricantillan@uc.cl
     affiliations: 
       - OLES
-      - Pontificia UC Chile
+      - Instituto de Sociología UC
       - LM2C2
+  - name: Federico Díaz
+    email: fdr@uc.cl
+    affiliations: 
+      - COES
+      - Escuela de Psicología UC
+  - name: Roberto González
+    email: ....@uc.cl
+    affiliations: 
+      - COES
+      - Escuela de Psicología UC
 date: "July 3, 2025"
 footer: "ISPP 2025 Annual Meeting"
 logo: "images/logo.jpeg"
@@ -35,6 +44,8 @@ logo: "images/logo.jpeg"
 
 ## Results
 
+### Descriptive statistics
+
+![](images/justification_police_violence.png){fig-align="center"}
+
 ## Conclusions
-
-
