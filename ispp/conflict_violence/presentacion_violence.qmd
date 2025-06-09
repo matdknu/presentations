@@ -40,7 +40,13 @@ logo: "images/logo.jpeg"
 
 ### Data
 
-###....
+### Statistical
+
+## Methods
+
+### Construction Latent Class
+
+### Independant variables
 
 ## Results
 
