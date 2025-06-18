@@ -40,8 +40,12 @@ logo: "images/logo.jpeg"
 
 ### Context: Ethnic Conflict and Social Mobilization in Chile
 
--   The 2019 social uprising further amplified demands for justice and equality, bringing Mapuche claims into broader social movements and framing them as part of a collective struggle against systemic injustice.\
--   However, the 2022 plebiscite marked a political turning point: despite symbolic inclusion in the Constitutional Convention's proposal for a plurinational state, the rejection of the draft constitution revealed limited societal consensus around Indigenous autonomy.
+-   The 2019 social uprising amplified widespread demands for justice, dignity, and structural change. In response, Chile established a Constitutional Convention to draft a new constitution that addressed issues like inequality, political exclusion, and the historical marginalization of Indigenous peoples. During this process, Indigenous claims—especially from the Mapuche—gained visibility and were embraced as part of a broader struggle against systemic injustice.
+
+```{=html}
+<!-- -->
+```
+-   However, the 2022 plebiscite marked a turning point. Although the draft constitution included symbolic and institutional recognition of Indigenous rights, such as a plurinational state, it was rejected by a majority of voters. Some critics viewed the proposal as overly focused on Indigenous issues, reflecting broader societal divisions over recognition and autonomy.
 
 ![](images/estallido-social2.jpg){fig-align="center" width="631"}
 
@@ -66,11 +70,15 @@ To address these questions, we use **Latent Class Analysis (LCA)** to identify a
 
 By focusing on Chile as a case of contested multiculturalism and political transition, the study offers insights into broader dynamics of legitimacy, resistance, and social cohesion in multiethnic democracies.
 
-## Theorical approach
+## Theoretical Approach
 
--   **Contact Theory**: Posits that intergroup contact under favorable conditions (e.g., equal status, cooperation, institutional support) can reduce prejudice and intergroup hostility (Allport, 1954). Applied here to assess how the quality of contact with Indigenous peoples affects support for violence.
--   **Social Identity Theory**: Suggests that individuals derive part of their identity from group membership, leading to in-group favoritism and potential out-group discrimination (Tajfel & Turner, 1979). Relevant for understanding how ethnic identification shapes attitudes toward intergroup conflict.
--   **Procedural Justice Theory**: Emphasizes the importance of fair and respectful treatment by authorities in fostering legitimacy and compliance (Tyler, 2006). In the intercultural context, perceptions of procedural fairness may influence whether violence by or against the state is seen as justified.
+**Contact Theory**: Posits that intergroup contact under favorable conditions (e.g., equal status, cooperation, institutional support) can reduce prejudice and intergroup hostility [(Allport, 1954)]{style="color:#1f77b4;"}. Applied here to assess how the quality of contact with Indigenous peoples affects support for violence.
+
+**Social Identity Theory**: Suggests that individuals derive part of their identity from group membership, leading to in-group favoritism and potential out-group discrimination [(Tajfel & Turner, 1979)]{style="color:#1f77b4;"}. Relevant for understanding how ethnic identification shapes attitudes toward intergroup conflict.
+
+**Procedural Justice Theory**: Emphasizes the importance of fair and respectful treatment by authorities in fostering legitimacy and compliance [(Tyler, 2006)]{style="color:#1f77b4;"}. In the intercultural context, perceptions of procedural fairness may influence whether violence by or against the state is seen as justified.
+
+## State of the Art
 
 ## Methods
 
