@@ -34,7 +34,7 @@ logo: "images/logo.jpeg"
 -   Since the mid-2010s, the interethnic conflict in southern Chile—particularly between the state and Mapuche communities—has become increasingly visible and contested.\
 -   This period has witnessed a rise in land-related actions by Indigenous organizations, the intensification of militarized responses by state forces, and high-profile cases of police violence against Indigenous individuals.
 
-![](images/carabinero-agradedido.jpg){fig-align="center" width="502"}
+![](images/carabinero-agradedido.jpg){fig-align="center" width="493"}
 
 ## Introduction
 
@@ -43,7 +43,7 @@ logo: "images/logo.jpeg"
 -   The 2019 social uprising further amplified demands for justice and equality, bringing Mapuche claims into broader social movements and framing them as part of a collective struggle against systemic injustice.\
 -   However, the 2022 plebiscite marked a political turning point: despite symbolic inclusion in the Constitutional Convention's proposal for a plurinational state, the rejection of the draft constitution revealed limited societal consensus around Indigenous autonomy.
 
-![](images/estallido-social2.jpg){fig-align="center"}
+![](images/estallido-social2.jpg){fig-align="center" width="631"}
 
 ## Introduction
 
