@@ -132,7 +132,7 @@ $$
 ### Construction Latent Class
 
 | **Item**                                                                                                                        | **Concept**                 |
-|-----------------------------------------------------|-------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
 | To what extent do you believe that... the use of force by *Carabineros* to disperse protests by Indigenous groups is justified? | Violence for social control |
 | To what extent do you believe that... farmers using firearms to confront Indigenous groups is justified?                        | Violence for social control |
 | To what extent do you believe that... Indigenous groups occupying land they consider their own is justified?                    | Violence for social change  |
@@ -144,7 +144,7 @@ $$
 
 ::: {style="font-size: 0.9em; overflow-x: auto;"}
 | Variable                                             | Description                                                        | Psychosocial Concept                           | Key Theoretical References                                                    |
-|------------------|------------------|------------------|-------------------|
+|------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------|-------------------------------------------------------------------------------|
 | Identification with Indigenous Peoples               | Degree of subjective identification with Indigenous groups         | Ingroup identification (subordinate group)     | Tajfel & Turner (1979); Gaertner & Dovidio (2000); Simon & Klandermans (2001) |
 | Identification with Chile                            | Degree of subjective identification with the Chilean nation        | Superordinate/national identification          | Brewer (1999); Roccas & Brewer (2002); Reicher & Hopkins (2001)               |
 | Positive contact with non-Indigenous Chileans        | Perceived friendliness when interacting with non-Indigenous people | Intergroup contact quality                     | Allport (1954); Pettigrew & Tropp (2006); Paolini et al. (2004)               |
