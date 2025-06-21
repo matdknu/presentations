@@ -109,7 +109,7 @@ The survey consists of four mirror samples:
 
 -   Non-Indigenous Chilean Sample (Central–South)
 
-For this research we used: Indigenous and non indigeneous.
+For this research we used: Indigenous and non indigeneous (732 Indigenous and 500 non indigenous).
 
 ## Methods
 
@@ -132,7 +132,7 @@ $$
 ### Construction Latent Class
 
 | **Item**                                                                                                                        | **Concept**                 |
-|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+|--------------------------------------------------------|----------------|
 | To what extent do you believe that... the use of force by *Carabineros* to disperse protests by Indigenous groups is justified? | Violence for social control |
 | To what extent do you believe that... farmers using firearms to confront Indigenous groups is justified?                        | Violence for social control |
 | To what extent do you believe that... Indigenous groups occupying land they consider their own is justified?                    | Violence for social change  |
@@ -144,7 +144,7 @@ $$
 
 ::: {style="font-size: 0.9em; overflow-x: auto;"}
 | Variable                                             | Description                                                        | Psychosocial Concept                           | Key Theoretical References                                                    |
-|------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------|-------------------------------------------------------------------------------|
+|-----------------|------------------|-----------------|---------------------|
 | Identification with Indigenous Peoples               | Degree of subjective identification with Indigenous groups         | Ingroup identification (subordinate group)     | Tajfel & Turner (1979); Gaertner & Dovidio (2000); Simon & Klandermans (2001) |
 | Identification with Chile                            | Degree of subjective identification with the Chilean nation        | Superordinate/national identification          | Brewer (1999); Roccas & Brewer (2002); Reicher & Hopkins (2001)               |
 | Positive contact with non-Indigenous Chileans        | Perceived friendliness when interacting with non-Indigenous people | Intergroup contact quality                     | Allport (1954); Pettigrew & Tropp (2006); Paolini et al. (2004)               |
@@ -159,19 +159,19 @@ $$
 
 ### Descriptive statistics
 
-![()](images/justification_police_violence_all.png){fig-align="center"}
+![](images/justification_police_violence_all.png){fig-align="center"}
 
 ## Results
 
 ### Descriptive statistics
 
-![()](images/justification_police_violence_indigenous.png){fig-align="center"}
+![](images/justification_police_violence_indigenous.png){fig-align="center"}
 
 ## Results
 
 ### Latent class
 
-![()](images/marginal_distribution.png){fig-align="center"}
+![](images/marginal_distribution.png){fig-align="center"}
 
 ## Results: Latent Classes
 
@@ -199,7 +199,7 @@ Reject all forms of violence regardless of the actor or context.
 
 ### Memberpish predictors
 
-![()](images/p3.png){fig-align="center"}
+![](images/p3.png){fig-align="center"}
 
 ## Results : Interpretation of Latent Classes
 
@@ -287,7 +287,7 @@ These results suggest that people with inclusive interpersonal experiences and a
 
 ### Probability to transitions
 
-![()](images/p4.png){fig-align="center"}
+![](images/p4.png){fig-align="center"}
 
 ## Conclusions
 
@@ -297,4 +297,4 @@ Positive intergroup contact—particularly with Indigenous and non-Indigenous gr
 
 The fluidity of certain classes, especially the **Hardline Justifiers**, reveals that attitudes toward violence can shift over time. This aligns with **Social Identity Theory**, where changing perceptions of group status and fairness can reshape how conflict is evaluated.
 
-# Thanks you!
+# Thank you!
