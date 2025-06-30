@@ -15,13 +15,17 @@ author:
     email: ricantillan@uc.cl
     affiliations: 
       - OLES
-      - Instituto de Sociología UC
+      - Institute of Sociology, PUC
       - LM2C2
   - name: Federico Díaz
     email: fdr@uc.cl
     affiliations: 
       - COES
-      - Escuela de Psicología UC
+      - School of Psychology, PUC
+  - name: Roberto González
+    affiliations: 
+      - COES
+      - School of Psychology, PUC
 date: "July 3, 2025"
 footer: "ISPP 2025 Annual Meeting"
 logo: "images/logo.jpeg"
@@ -36,7 +40,7 @@ logo: "images/logo.jpeg"
 -   Since the mid-2010s, the interethnic conflict in southern Chile—particularly between the state and Mapuche communities—has become increasingly visible and contested.\
 -   This period has witnessed a rise in land-related actions by Indigenous organizations, the intensification of militarized responses by state forces, and high-profile cases of police violence against Indigenous individuals.
 
-![()](images/carabinero-agradedido.jpg){fig-align="center" width="493"}
+![](images/carabinero-agradedido.jpg){fig-align="center" width="493"}
 
 ## Introduction
 
@@ -48,7 +52,7 @@ logo: "images/logo.jpeg"
 
 -   However, the 2022 plebiscite marked a turning point. Although the draft constitution included symbolic and institutional recognition of Indigenous rights, such as a plurinational state, it was rejected by a majority of voters. Some critics viewed the proposal as overly focused on Indigenous issues, reflecting broader societal divisions over recognition and autonomy.
 
-![()](images/estallido-social2.jpg){fig-align="center" width="631"}
+![](images/estallido-social2.jpg){fig-align="center" width="631"}
 
 ## Introduction
 
@@ -58,7 +62,7 @@ logo: "images/logo.jpeg"
 -   Public discourse has grown increasingly divided over the use of force—both by the state and Indigenous actors—raising concerns about the factors that shape these views.\
 -   This study investigates the social and psychological foundations of public attitudes toward intergroup violence, exploring how people justify violence depending on the actor, context, and perceived legitimacy.
 
-![()](images/progressive-constituion.png){fig-align="center"}
+![](images/progressive-constituion.png){fig-align="center"}
 
 ## Research Aims and Analytical Framework
 
@@ -85,7 +89,7 @@ Violence has been studied as a form of control, resistance, or transformation, d
 
 In the case of minority groups, structural discrimination, unequal treatment by the state, and a lack of institutional recognition foster perceptions of illegitimacy and, in some cases, justify defensive or transformative forms of violence. This pattern has been documented in contexts such as the U.S., the U.K., and Chile [(Gau & Brunson 2015]{style="color:#1f77b4;"}; [Gerber et al. 2017]{style="color:#1f77b4;"}; [Bradford, Milani & Jackson 2017]{style="color:#1f77b4;"}; [Murphy et al. 2017)]{style="color:#1f77b4;"}.
 
-[Gerber et al. 2023]{style="color:#1f77b4;"}. examine attitudes toward violence perpetrated by and against protesters in Chile. This project builds on their methodological approach, but applies it to the conflict between the Chilean state and the Mapuche people, using a broader temporal window and focusing exclusively on Indigenous populations.
+A recent study by [Gerber et al. 2023]{style="color:#1f77b4;"}. examined violence both from and against protesters in Chile, using measures of procedural justice and social identity. Our study adopts a similar approach but focuses on the conflict between Indigenous peoples and the state, drawing on a broader longitudinal panel and applying latent class modeling to analyze evolving attitudes over time.
 
 # 🚩 Methods
 
@@ -127,26 +131,26 @@ $$
 
 ### Construction Latent Class
 
-| **Item**                                                                                                                        | **Concept**                 |
-|------------------------------------------------------|------------------|
-| To what extent do you believe that... the use of force by *Carabineros* to disperse protests by Indigenous groups is justified? | Violence for social control |
-| To what extent do you believe that... farmers using firearms to confront Indigenous groups is justified?                        | Violence for social control |
-| To what extent do you believe that... Indigenous groups occupying land they consider their own is justified?                    | Violence for social change  |
-| To what extent do you believe that... Indigenous groups blocking roads or highways is justified?                                | Violence for social change  |
+| **Item**                                                                                                                                                          | **Concept**                 |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| To what extent do you believe that... the use of force by *Carabineros \[Police Chile\]* \[Police Chile\] to disperse protests by Indigenous groups is justified? | Violence for social control |
+| To what extent do you believe that... farmers using firearms to confront Indigenous groups is justified?                                                          | Violence for social control |
+| To what extent do you believe that... Indigenous groups occupying land they consider their own is justified?                                                      | Violence for social change  |
+| To what extent do you believe that... Indigenous groups blocking roads or highways is justified?                                                                  | Violence for social change  |
 
 ## Methods
 
 ### Independant variables
 
 ::: {style="font-size: 0.9em; overflow-x: auto;"}
-| Variable                                             | Description                                                        | Psychosocial Concept                           | Key Theoretical References                                                    |
-|------------------|------------------|------------------|--------------------|
-| Identification with Indigenous Peoples               | Degree of subjective identification with Indigenous groups         | Ingroup identification (subordinate group)     | Tajfel & Turner (1979); Gaertner & Dovidio (2000); Simon & Klandermans (2001) |
-| Identification with Chile                            | Degree of subjective identification with the Chilean nation        | Superordinate/national identification          | Brewer (1999); Roccas & Brewer (2002); Reicher & Hopkins (2001)               |
-| Positive contact with non-Indigenous Chileans        | Perceived friendliness when interacting with non-Indigenous people | Intergroup contact quality                     | Allport (1954); Pettigrew & Tropp (2006); Paolini et al. (2004)               |
-| Positive contact with Indigenous Chileans            | Perceived friendliness when interacting with Indigenous people     | Intergroup contact quality (reverse direction) | Pettigrew (1998); Dixon et al. (2005); Saguy et al. (2009)                    |
-| Carabineros treat Indigenous people with respect     | Perceived fairness in police treatment of Indigenous communities   | Procedural justice; institutional trust        | Tyler (2006); Sunshine & Tyler (2003); Lind & Tyler (1988)                    |
-| Carabineros treat non-Indigenous people with respect | Perceived fairness in police treatment of non-Indigenous           | Procedural justice; institutional trust        | Tyler (2006); Sunshine & Tyler (2003); Lind & Tyler (1988)                    |
+| Variable                                                              | Description                                                        | Psychosocial Concept                           | Key Theoretical References                                                    |
+|-----------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------|-------------------------------------------------------------------------------|
+| Identification with Indigenous Peoples                                | Degree of subjective identification with Indigenous groups         | Ingroup identification (subordinate group)     | Tajfel & Turner (1979); Gaertner & Dovidio (2000); Simon & Klandermans (2001) |
+| Identification with Chile                                             | Degree of subjective identification with the Chilean nation        | Superordinate/national identification          | Brewer (1999); Roccas & Brewer (2002); Reicher & Hopkins (2001)               |
+| Positive contact with non-Indigenous Chileans                         | Perceived friendliness when interacting with non-Indigenous people | Intergroup contact quality                     | Allport (1954); Pettigrew & Tropp (2006); Paolini et al. (2004)               |
+| Positive contact with Indigenous Chileans                             | Perceived friendliness when interacting with Indigenous people     | Intergroup contact quality (reverse direction) | Pettigrew (1998); Dixon et al. (2005); Saguy et al. (2009)                    |
+| Carabineros \[Police Chile\] treat Indigenous people with respect     | Perceived fairness in police treatment of Indigenous communities   | Procedural justice; institutional trust        | Tyler (2006); Sunshine & Tyler (2003); Lind & Tyler (1988)                    |
+| Carabineros \[Police Chile\] treat non-Indigenous people with respect | Perceived fairness in police treatment of non-Indigenous           | Procedural justice; institutional trust        | Tyler (2006); Sunshine & Tyler (2003); Lind & Tyler (1988)                    |
 :::
 
 # 📊 Results
