@@ -132,7 +132,7 @@ $$
 ### Construction Latent Class
 
 | **Item**                                                                                                                                                          | **Concept**                 |
-|-------------------------------------------------------|-----------------|
+|-----------------------------------------------------|------------------|
 | To what extent do you believe that... the use of force by *Carabineros \[Police Chile\]* \[Police Chile\] to disperse protests by Indigenous groups is justified? | Violence for social control |
 | To what extent do you believe that... farmers using firearms to confront Indigenous groups is justified?                                                          | Violence for social control |
 | To what extent do you believe that... Indigenous groups occupying land they consider their own is justified?                                                      | Violence for social change  |
@@ -144,7 +144,7 @@ $$
 
 ::: {style="font-size: 0.9em; overflow-x: auto;"}
 | Variable                                                              | Description                                                        | Psychosocial Concept                           | Key Theoretical References                                                    |
-|------------------|------------------|------------------|--------------------|
+|------------------|------------------|------------------|-------------------|
 | Identification with Indigenous Peoples                                | Degree of subjective identification with Indigenous groups         | Ingroup identification (subordinate group)     | Tajfel & Turner (1979); Gaertner & Dovidio (2000); Simon & Klandermans (2001) |
 | Identification with Chile                                             | Degree of subjective identification with the Chilean nation        | Superordinate/national identification          | Brewer (1999); Roccas & Brewer (2002); Reicher & Hopkins (2001)               |
 | Positive contact with non-Indigenous Chileans                         | Perceived friendliness when interacting with non-Indigenous people | Intergroup contact quality                     | Allport (1954); Pettigrew & Tropp (2006); Paolini et al. (2004)               |
@@ -287,37 +287,39 @@ These results suggest that people with inclusive interpersonal experiences and a
 
 ### Probability to transitions
 
-:::{.columns}
-
+::: columns
 ::: {.column width="65%"}
 ![](images/p4.png)
 :::
 
 ::: {.column width="35%"}
-
-
-- Our longitudinal model also tracks change.
-- This graph shows the probability of transi-tio-ning from one attitudinal class to another. 
-- While some profiles remain relatively stable, overall we observe a considerable degree of volatility 
-
+-   Our longitudinal model also tracks change.
+-   This graph shows the probability of transi-tio-ning from one attitudinal class to another.
+-   While some profiles remain relatively stable, overall we observe a considerable degree of volatility
 :::
-
 :::
-
 
 ## Results
 
 ### Probability to transitions
 
-![](images/p4 _1.png){fig-align="center"}
+![](images/p4%20_1.png){fig-align="center"}
 
 ## Conclusions
 
-**The findings suggest that attitudes toward intergroup violence are not monolithic but structured into distinct latent profiles**. The most stable and prevalent group—**Universal Rejecters of Violence**—reflects a widespread normative commitment to non-violence. However, the existence of more ambivalent and context-dependent classes points to underlying tensions in how individuals interpret intergroup conflict.
+Let me conclude with three key takeaways:
 
-Positive intergroup contact—particularly with Indigenous and non-Indigenous groups—reduces support for violent justification, in line with **Contact Theory**. Additionally, perceptions of respectful treatment toward Indigenous peoples are associated with lower odds of justifying violence, supporting the role of **Procedural Justice** in shaping legitimacy.
+-   **Attitudes toward intergroup violence are not random or uniform.** People fall into structured, meaningful profiles that remain relatively stable over time — though some individuals do shift between classes. Interpersonal contact and perceived fairness matter.
 
-The fluidity of certain classes, especially the **Hardline Justifiers**, reveals that attitudes toward violence can shift over time. This aligns with **Social Identity Theory**, where changing perceptions of group status and fairness can reshape how conflict is evaluated.
+```{=html}
+<!-- -->
+```
+-   **Positive contact** — especially with both groups — is associated with greater rejection of violence, particularly among ambivalent individuals. Likewise, feeling respected by police lowers support for violent responses across the board.
+
+```{=html}
+<!-- -->
+```
+-   **Methodological contribution**: latent class analysis. This inductive statistical approach identifies unobserved subgroups within the population. It opens the door to follow-up interviews to deepen analysis, and allows us to move beyond a simple “support vs. rejection” dichotomy by uncovering distinct profiles of attitudes toward violence. These profiles are key to understanding the complexity of the indigenous conflict in Chile.
 
 # Thank you!
 
