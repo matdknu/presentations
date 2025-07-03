@@ -1,6 +1,6 @@
 ---
-title: The Impact of Ethnic Identity and Conflictive Intergroup Relations on Mental Health Outcomes.
-subtitle: Dynamics between Indigenous and Non-Indigenous Peoples in Chile. Longitudinal Evidence (2016–2023) 
+title: The Impact of Ethnic Identity and Conflictive Intergroup Relations on Mental Health Outcomes in Chile
+subtitle:  Longitudinal Evidence (2016–2023) 
 format: clean-revealjs
 html-math-method:
   method: mathjax
@@ -25,24 +25,164 @@ author:
 date: "July 3, 2025"
 footer: "ISPP 2025 Annual Meeting"
 logo: "images/logo.jpeg"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 ## Introduction
 
-## Literature review
+- Depression is the **leading cause of mental health-related disability** worldwide (WHO, 2017).
+- Affects **4.4%** of the global population (~280 million people).
+- More prevalent among **women** (GBD, 2022).
+- In Chile (National Health Survey 2016–17):
+  - Overall prevalence: **6.2%**
+  - Women: 10.1% | Men: 2.1%
+- In 2020, COVID-19 triggered a **40.6% increase** in new depression cases (Celis-Morales & Nazar, 2022).
 
-## Methods
+---
 
-### Data
+## The Chronic Nature of Depression
 
-### Analysis
+- Depression is often **chronic and recurrent** (Solomon, 2000).
+- After one episode: **60% chance** of relapse.
+- After three episodes: **90% chance** of recurrence (Bockting et al., 2015).
+- High personal, social, and economic costs:
+  - $6,200 USD per year per person (Luppa et al., 2007)
+  - Leading cause of mental health-related disability (GBD, 2019)
 
+---
 
-## Results
+## Depression, Culture and Inequality
+
+- Depression is influenced by **cultural values, beliefs, and practices** (Kirmayer, 2001).
+- **Ethnic minorities** face:
+  - Higher risk of depression (Kirkbride et al., 2024)
+  - Lower access to care (Missinne & Bracke, 2012)
+- Risk factors:
+  - Discrimination, poverty, residential segregation
+  - Cultural marginalization and acculturative stress (Van der Wal et al., 2024)
+
+---
+
+## The Minority Stress Model
+
+- Explains how **structural and interpersonal discrimination** generate chronic psychological stress (Frost & Meyer, 2023).
+- Stressors among Indigenous peoples:
+  - **Historical trauma**, discriminatory policies (Gone et al., 2019)
+  - **Internalized stigma** and **anticipatory stress**
+- Cultural invalidation weakens **group identity** and **resilience**.
+
+---
+
+## The Chilean Case
+
+- Few studies systematically examine Indigenous mental health.
+- Chile’s Ministry of Health acknowledges need for **culturally sensitive care** (MINSAL, 2016).
+- **ELRI** (2016–2022) provides:
+  - Longitudinal data on **depression symptoms** (PHQ-9)
+  - Measures on **ethnic identity**, discrimination, and social support
+
+---
+
+## Research Questions
+
+- Do Indigenous people in Chile report higher depressive symptoms?
+- How do **ethnic belonging** and **group identification** influence depression?
+- What **risk** and **protective factors** shape mental health trajectories over time?
+
+---
+
+## Descriptive Findings
+
+- Across four ELRI waves:
+  - ~14% of **Indigenous** and ~15% of **non-Indigenous** participants show **clinically significant** depressive symptoms (PHQ-9 ≥ 10).
+- Slightly **lower prevalence among Indigenous** individuals — counterintuitive to minority stress predictions.
+
+> See Graph 1: PHQ-9 prevalence by group and wave
+
+---
+
+## Depression Over Time
+
+- Among Indigenous people:
+  - 2018: 15% show clinical symptoms
+  - 2021: increases to 18%
+  - 2022: drops to 9%
+- ELRI tracks:
+  - **Chronic cases**
+  - **New onset cases**
+  - **Recovery over time**
+
+> See Graph 2: Transitions across waves
+
+---
+
+## Multivariate Models
+
+- Sample: 5,367 individuals (2016–2022)
+- Linear regressions with and without **fixed effects** (Table 1)
+- Key predictors:
+  - **Ethnic belonging**: ↑ risk of depressive symptoms
+  - **Group identification**: ↓ risk
+  - **Negative contact** with non-Indigenous Chileans: ↑↑ risk
+  - Being **female**: ↑ risk
+  - Having a **job** or a **partner**: ↓ risk
+  - **Social support**: ↓ depressive symptoms
+
+> See Table 1: Models 1–4
+
+---
+
+## Interaction Effects
+
+- Interaction: **Ethnic belonging × Group identification** is **significant and negative**
+- Meaning: Indigenous individuals who **strongly identify** with their group are **less likely** to report depressive symptoms
+
+> See Graph 3: Density plots by strength of identification
+
+---
+
+## Discussion
+
+- No overall higher prevalence among Indigenous groups, but...
+- **Statistical models reveal hidden vulnerabilities**
+- **Group identity acts as a protective factor**
+- Aligns with literature on **ethnic identity and resilience** (Brance et al., 2023; Brown et al., 2025)
+
+---
+
+## Broader Implications
+
+- **Gender gap**: Women show significantly higher symptom scores
+- **Employment** is protective, though loses strength over time
+- **Romantic relationships** gain predictive strength in longitudinal models
+- **Discrimination-related experiences** are the strongest predictor of depressive symptoms
+
+---
+
+## Policy Recommendations
+
+- Foster **positive ethnic identity** and **cultural belonging**
+- Design **culturally adapted treatments**
+- Address **structural inequities** (residential, employment, education)
+- Recognize the impact of **interpersonal discrimination**
+
+---
+
+## Limitations
+
+- PHQ-9 is based on Western diagnostic criteria
+- May **miss culturally specific expressions** of distress
+- Future research should include **Indigenous worldviews** and symptom narratives
+
+---
 
 ## Conclusions
 
-
-
-
+- Belonging to an ethnic minority is not inherently a risk—
+  → the **context of exclusion** is.
+- **Negative intergroup experiences** are a key risk factor.
+- **Strong group identity** acts as a buffer.
+- Effective policies must **reduce discrimination** and **support cultural resilience**.
 
